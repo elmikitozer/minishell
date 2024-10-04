@@ -1,0 +1,24 @@
+{
+	"files.associations": {
+		"array": "c",
+		"functional": "c",
+		"libft.h": "c",
+		"limits.h": "c",
+		"minishell.h": "c",
+		"pipex.h": "c",
+		"pipex_bonus.h": "c",
+		"readline.h": "c",
+		"stdlib.h": "c",
+		"sigaction.h": "c",
+		"signal.h": "c",
+		"string.h": "c",
+		"system_error": "c",
+		"tuple": "c",
+		"type_traits": "c",
+		"utility": "c",
+		"stdbool.h": "c",
+		"get_next_line.h": "c",
+		"struct.h": "c",
+		"define.h": "c"
+	}
+}
